@@ -39,7 +39,7 @@ export default function Home() {
 
           {/* Resume Button */}
           <a
-            href="photos/resume.pdf"
+            href="/resume.pdf"
             download
             className="inline-block bg-indigo-600 text-white px-6 py-3 rounded-full shadow-md hover:bg-indigo-700 transition"
           >
@@ -50,7 +50,7 @@ export default function Home() {
         {/* Right Side - Image */}
         <div className="flex-1 flex justify-center">
           <img
-            src="photos/profile.jpeg"
+            src="/profile.jpeg"
             alt="Profile"
             className="w-80 h-64 object-cover rounded-full shadow-lg border-4 border-indigo-100 hover:scale-105 transition"
           />
