@@ -13,6 +13,7 @@ export default function Home() {
         {/* Left Side - Text */}
         <div className="flex-1 text-center md:text-left">
           <h1 className="text-5xl font-extrabold text-gray-800 mb-4">
+            <br/>
             Hi, I'm 
             <span className="text-indigo-600"><br/>Astitav Mittal</span>
           </h1>
