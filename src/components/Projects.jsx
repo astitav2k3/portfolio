@@ -27,10 +27,10 @@ export default function Projects() {
       url: "https://astitav2k3.github.io/save-the-box/"
     },
     {
-      title: "To-Do List",
-      desc: "A productivity app to manage tasks efficiently.",
-      tech: "ReactJS, NodeJS, MongoDB",
-      url: "#"
+      title: "TaskHub",
+      desc: "A productivity tracker to-do list website to manage tasks efficiently.",
+      tech: "ReactJS, Springboot, MongoDB, Render",
+      url: "https://taskhub0007.vercel.app"
     },
     {
       title: "SalonPro",
