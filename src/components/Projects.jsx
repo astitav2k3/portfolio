@@ -29,7 +29,7 @@ export default function Projects() {
     {
       title: "TaskHub",
       desc: "A productivity tracker to-do list website to manage tasks efficiently.",
-      tech: "ReactJS, Springboot, MongoDB, Render",
+      tech: "ReactJS, Springboot, MongoDB",
       url: "https://taskhub0007.vercel.app"
     },
     {
