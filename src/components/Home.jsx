@@ -40,7 +40,7 @@ export default function Home() {
 
           {/* Resume Button */}
           <a
-            href="/resume.pdf"
+            href="/AstitavMittalResume.pdf"
             download
             className="inline-block bg-indigo-600 text-white px-6 py-3 rounded-full shadow-md hover:bg-indigo-700 transition"
           >
